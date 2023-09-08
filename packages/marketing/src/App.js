@@ -5,6 +5,7 @@ import Landing from './components/Landing';
 import Pricing from './components/Pricing';
 
 export default () => {
+    // small change for a push
     return <div>
         <StylesProvider>
             <BrowserRouter>
